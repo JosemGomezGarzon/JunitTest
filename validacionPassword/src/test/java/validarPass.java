@@ -3,10 +3,6 @@ import com.mycompany.validacionpassword.validatePass;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- *
- * @author Handi
- */
 public class validarPass {
 
     @Test
