@@ -2,10 +2,6 @@ package com.mycompany.validacionpassword;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Handi
- */
 public class Main {
 
     public static void main(String[] args) {
