@@ -1,9 +1,5 @@
 package com.mycompany.validacionpassword;
 
-/**
- *
- * @author Handi
- */
 public class validatePass {
     
         public static boolean validatepassword(String password, String confirmPassword) {
